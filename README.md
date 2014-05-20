@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains the code to take the data available at the following location " " and perform some initial analysis to produce
+This repo contains the code to take the data available at the following location "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" and perform some initial analysis to produce
 a tidy data set containing the means of the variables measured.
 
 Further details of the variables included can be found within both Codebook.md of this repo and in the README.txt file provided with the raw data.
